@@ -1,8 +1,8 @@
 # Notes-Taking-App
 A Private notes App for individuals for privacy.
-# NotesMate
+# PK Notes
 
-NotesMate is a modern, lightweight, and easy-to-use notes-taking Android app designed to help you capture, organize, and manage your thoughts, ideas, and to-do lists on the go. With a clean interface and powerful features, NotesMate is the perfect companion for students, professionals, and anyone who wants to stay organized.
+PK Notes is a modern, lightweight, and easy-to-use notes-taking Android app designed to help you capture, organize, and manage your thoughts, ideas, and to-do lists on the go. With a clean interface and powerful features, PK Notes is the perfect companion for students, professionals, and anyone who wants to stay organized.
 
 ## Features
 
