@@ -16,6 +16,14 @@ PK Notes is a modern, lightweight, and easy-to-use notes-taking Android app desi
 ## To Access the Source file
 Using the drive link: https://drive.google.com/drive/folders/1YQwDqAoNT2F1RlU1bLJqdRRbzjv4B966?usp=sharing
 
+## Screnshots
+![Home Screen](p1.jpg)
+![Pages](p2.jpg)
+![Settings](p3.jpg)
+![Reminder](p4.jpg)
+![Settings Thems Change](p5.jpg)
+![Reminder](p6.jpg)
+
 
 ## Installation
 
