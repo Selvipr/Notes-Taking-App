@@ -13,6 +13,9 @@ NotesMate is a modern, lightweight, and easy-to-use notes-taking Android app des
 - **Dark Mode:** Enjoy comfortable note-taking in any lighting condition.
 - **Offline Access:** Create and view notes even without an internet connection.
 
+## To Access the Source file
+Using the drive link: https://drive.google.com/drive/folders/1YQwDqAoNT2F1RlU1bLJqdRRbzjv4B966?usp=sharing
+
 
 ## Installation
 
