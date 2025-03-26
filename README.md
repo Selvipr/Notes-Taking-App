@@ -26,5 +26,5 @@ NotesMate is a modern, lightweight, and easy-to-use notes-taking Android app des
 1. **Clone the Repository:**
 
    bash
-   git clone https://github.com/yourusername/NotesMate.git
+   git clone https://github.com/Selvipr/Notes-Taking-App.git
    cd NotesMate
